@@ -1,19 +1,7 @@
 import pickle
 
 
-# agenda = [
-#     {
-#         'nombre' : 'Pedro',
-#         'numero' : 633433123
-#     },
-#     {
-#         'nombre' : 'María Trabajo',
-#         'numero' : 644536293
-#     }
-# ]
-# f = open('agenda.bin', 'wb')
-# pickle.dump(agenda, f)
-# f.close()
+
 
 def mostrarAgenda(agenda):
     for contacto in agenda:
